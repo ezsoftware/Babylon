@@ -1,0 +1,11 @@
+C:\Users\John\Documents\Visual Studio 2010\Projects\xi-util-development\BingTranslate\bin\Debug\BingTranslate.dll
+C:\Users\John\Documents\Visual Studio 2010\Projects\xi-util-development\BingTranslate\bin\Debug\BingTranslate.pdb
+C:\Users\John\Documents\Visual Studio 2010\Projects\xi-util-development\BingTranslate\bin\Debug\NLog.dll
+C:\Users\John\Documents\Visual Studio 2010\Projects\xi-util-development\BingTranslate\bin\Debug\XIPlugin.dll
+C:\Users\John\Documents\Visual Studio 2010\Projects\xi-util-development\BingTranslate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2010\Projects\xi-util-development\BingTranslate\obj\Debug\BingTranslate.SettingsControl.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\xi-util-development\BingTranslate\obj\Debug\BingTranslate.TabControl.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\xi-util-development\BingTranslate\obj\Debug\ResGen.read.1.tlog
+C:\Users\John\Documents\Visual Studio 2010\Projects\xi-util-development\BingTranslate\obj\Debug\ResGen.write.1.tlog
+C:\Users\John\Documents\Visual Studio 2010\Projects\xi-util-development\BingTranslate\obj\Debug\BingTranslate.dll
+C:\Users\John\Documents\Visual Studio 2010\Projects\xi-util-development\BingTranslate\obj\Debug\BingTranslate.pdb
